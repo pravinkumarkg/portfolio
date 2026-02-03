@@ -17,7 +17,7 @@ const ScrollToTop = () => {
     if(!scrollTop) return null; 
 
     return(
-        <button className="sticky bottom-10 left-6 z-9 cursor-pointer" onClick={() => window.scrollTo({ top:0, behavior: "smooth" })}>
+        <button className="fixed bottom-10 right-6 cursor-pointer" onClick={() => window.scrollTo({ top:0, behavior: "smooth" })}>
             <FaArrowCircleUp className="text-[24px] dark:text-white" />
         </button>
     )
