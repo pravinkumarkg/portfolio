@@ -7,7 +7,7 @@ const About = ({ refProp }) => {
               <div className="about-section px-4 xxl:px-0 py-10 xl:py-20 max-w-[1440px] m-auto text-center">
                 <h2 className="text-[26px] md:text-[32px] lg:text-[40px] font-medium mb-3 text-gray-900 dark:text-gray-100">About Me</h2>
                 <p className="max-w-2xl m-auto mb-5 lg:mb-12 text-gray-600 dark:text-gray-300">Frontend Developer with 6 years of overall experience in developing responsive web layouts using
-                    HTML, CSS, and modern JavaScript (ES6+). Possess 1+ year of hands-on experience with React.js,
+                    HTML, CSS, and modern JavaScript (ES6+). Possess 3 year of hands-on experience with React.js,
                     focusing on reusable component development and REST API integration. Proficient in UI styling
                     frameworks including Bootstrap, Sass, and Tailwind CSS, with a strong focus on performance and
                     maintainable UI code.
