@@ -16,6 +16,7 @@ const Skills = ({ refProp }) => {
                                 <p className="bg-neutral-200 px-2 py-1 rounded-xl">JavaScript (ES6+)</p>
                                 <p className="bg-neutral-200 px-2 py-1 rounded-xl">React.js</p>
                                 <p className="bg-neutral-200 px-2 py-1 rounded-xl">REST API Integration</p>
+                                <p className="bg-neutral-200 px-2 py-1 rounded-xl">Typescript</p>
                                 <div className="bg-neutral-200 px-2 py-1 rounded-xl flex gap-2 items-center">
                                     WordPress
                                     <span className="relative">
@@ -29,6 +30,7 @@ const Skills = ({ refProp }) => {
                             <p className="text-lg font-medium text-gray-600 dark:text-gray-300">State Management & Data Handling</p>
                             <div className="flex gap-4 flex-wrap">
                                 <p className="bg-neutral-200 px-2 py-1 rounded-xl">React Hooks</p>
+                                <p className="bg-neutral-200 px-2 py-1 rounded-xl">Redux Toolkit</p>
                                 <div className="bg-neutral-200 px-2 py-1 rounded-xl flex gap-2 items-center">
                                     API Integration
                                     <button className="relative">

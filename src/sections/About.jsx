@@ -6,11 +6,14 @@ const About = ({ refProp }) => {
             <section className="dark:bg-[#181818]" id="about-section" ref={refProp}>
               <div className="about-section px-4 xxl:px-0 py-10 xl:py-20 max-w-[1440px] m-auto text-center">
                 <h2 className="text-[26px] md:text-[32px] lg:text-[40px] font-medium mb-3 text-gray-900 dark:text-gray-100">About Me</h2>
-                <p className="max-w-2xl m-auto mb-5 lg:mb-12 text-gray-600 dark:text-gray-300">Frontend Developer with 6 years of overall experience in developing responsive web layouts using
-                    HTML, CSS, and modern JavaScript (ES6+). Possess 3 year of hands-on experience with React.js,
-                    focusing on reusable component development and REST API integration. Proficient in UI styling
-                    frameworks including Bootstrap, Sass, and Tailwind CSS, with a strong focus on performance and
-                    maintainable UI code.
+                <p className="mx-auto max-w-4xl mb-5 lg:mb-12 text-gray-600 dark:text-gray-300">
+                    I am a Frontend Developer with 6+ years of experience building and maintaining responsive web applications. My core strengths include HTML5, CSS3, JavaScript (ES6+), responsive design, and creating user-friendly interfaces.
+
+                    In my current role, I work on existing applications, implement UI enhancements, resolve frontend bugs, handle form validation, and integrate APIs. I also focus on reusable UI components, cross-browser compatibility, and writing clean, maintainable code.
+
+                    I have hands-on experience with React.js, React Hooks, component-based development, and API integration. I am currently strengthening my skills in TypeScript, Redux Toolkit, and Next.js through practical projects to expand my capabilities in modern frontend development.
+
+                    I enjoy learning new technologies, solving challenging UI problems, and building reliable web experiences that balance usability, functionality, and maintainability.
                 </p>
                 <div className="about-box-section-wrap flex flex-wrap md:flex-nowrap gap-3 lg:gap-5">
                     <div className="about-box-section border border-[#bdbdbd] w-full p-3 lg:p-6 flex gap-3 lg:gap-6 flex-col items-center rounded-lg hover:shadow-[7px_7px_10px_-6px_#bdbdbd,3px_3px_0px_-4px_#bdbdbd] transition-all duration-300 ease-in-out">
